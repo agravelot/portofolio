@@ -330,7 +330,6 @@ export const getStaticProps = async ({
 }): Promise<GetStaticPropsResult<HomeProps>> => {
   const flasher = await getProjectBySlug(locale, 'flasher.md')
   const anycloud = await getProjectBySlug(locale, 'anycloud.md')
-  const visualizer = await getProjectBySlug(locale, 'visualizer.md')
   const freedomOS = await getProjectBySlug(locale, 'freedomos.md')
 
   // TODO  add srcSetnv
