@@ -78,7 +78,7 @@ const fr: Translation = {
         Je suis référent technique de l'incubateur DevOps d'Ynov Campus Lyon,
         pour accompagner les étudiants dans leurs projets. A côté de cela, je
         construis un CMS spécialisé pour améliorer la visibilité des
-        photographes passionnés.{' '}
+        photographes passionnés{' '}
         <a href="https://jkanda.fr" className="font-semibold text-blue-400">
           flasher
         </a>
